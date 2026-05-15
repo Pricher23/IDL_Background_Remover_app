@@ -11,8 +11,8 @@ import glob
 # picks GPU automatically if available, otherwise falls back to CPU
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 IMG_SIZE = 256
-BATCH_SIZE = 4
-EPOCHS = 2
+BATCH_SIZE = 8
+EPOCHS = 15
 LR = 1e-4
 PROJECT = r"D:\Uni\Info\Sem2\IDL"
 
