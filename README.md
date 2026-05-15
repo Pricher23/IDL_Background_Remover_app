@@ -25,7 +25,7 @@ If you prefer not to retrain, you can also download the `.pth` file from this Go
 
 ## How to get the dataset
 
-The main training dataset is hosted separately on Kaggle. Download it from Kaggle link and place it in the correct dataset folder before training.
+The main training dataset is hosted separately on Kaggle. Download it from Kaggle and place it in the correct dataset folder before training.
 
 Personal frames are collected locally by running:
 
